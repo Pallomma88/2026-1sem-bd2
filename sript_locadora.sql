@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id_locacao]
+      ,[id_cliente]
+      ,[id_filme]
+      ,[data_locacao]
+  FROM [LocadoraPallomma].[dbo].[Locacoes]
